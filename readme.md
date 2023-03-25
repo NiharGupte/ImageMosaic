@@ -8,6 +8,6 @@ Two Image Output:
 
 Multi Image Output:
 
-![Multi Image output](https://github.com/NiharGupte/ImageMosaic/blob/results/general_norm_0_auto-ransac.jpg?raw=true)
+![Multi Image output](https://github.com/NiharGupte/ImageMosaic/blob/master/results/general_norm_0_auto-ransac.jpg?raw=true)
 
 
