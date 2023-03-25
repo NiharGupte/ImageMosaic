@@ -4,10 +4,10 @@ The problem statement demanded performing manual and automatic mosaicing on two 
 
 Two Image Output:
 
-![Two Image output](https://github.com/NiharGupte/ImageMosaic/results/auto_cropped_norm_1_auto-ransac.jpg?raw=true)
+![Two Image output](https://github.com/NiharGupte/ImageMosaic/blob/master/results/auto_cropped_norm_1_auto-ransac.jpg?raw=true)
 
 Multi Image Output:
 
-![Multi Image output](https://github.com/NiharGupte/ImageMosaic/results/general_norm_0_auto-ransac.jpg?raw=true)
+![Multi Image output](https://github.com/NiharGupte/ImageMosaic/blob/results/general_norm_0_auto-ransac.jpg?raw=true)
 
 
