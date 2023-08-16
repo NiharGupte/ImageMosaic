@@ -1,6 +1,6 @@
 # Panoramic Image Mosaicing
 
-The problem statement demanded performing manual and automatic mosaicing on two images, then extending that to multiple images. Manual Mosaicing is done with selecting keypoint correspondences manually from the image, whereas automatic mosaicing involves detecting and matching these correspondences using SIFT algorithm. Further, RANSAC Algorithm is used to remove the outliers in order to get perfect matches.
+The problem statement demanded performing manual and automatic mosaicing on two images, then extending that to multiple images. Manual Mosaicing is done with selecting keypoint correspondences manually from the image, whereas automatic mosaicing involves detecting and matching these correspondences using SIFT algorithm. Further, adaptive RANSAC Algorithm is used to remove the outliers in order to get perfect matches.
 
 Two Image Output:
 
